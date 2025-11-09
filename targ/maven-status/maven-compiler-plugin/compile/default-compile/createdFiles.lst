@@ -1,0 +1,11 @@
+com\example\passmanager\view\PasswordManagerView$QuadConsumer.class
+com\example\passmanager\Main.class
+com\example\passmanager\model\PasswordEntry.class
+com\example\passmanager\PasswordManagerApplication.class
+com\example\passmanager\service\PasswordStrengthService.class
+com\example\passmanager\service\PasswordGenerator.class
+com\example\passmanager\service\PasswordRepository.class
+com\example\passmanager\service\EncryptionService.class
+com\example\passmanager\model\PasswordStrength.class
+com\example\passmanager\controller\PasswordManagerController.class
+com\example\passmanager\view\PasswordManagerView.class
